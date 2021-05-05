@@ -6,6 +6,14 @@ button, button:focus {
   box-shadow: none !important;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 /* typography classes */
 .font-baloo {
   font-family: "Baloo Thambi 2", cursive;
